@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, Yash! 👋
 
-<!--
-**yash-02/yash-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐱‍🏍 I'm Enthusiastic about: Artificial Intelligence😍
+- 🔭 I’m currently working on Deep learning, Machine learning By python.👨‍💻
+- 🌱 I’m currently learning Every things such as TensorFlow, Computer Vision🤣
+- 👯 I’m looking to collaborate on research and development🤖
+- 🤔 I’m looking for Project partner👨🏻‍🤝‍👨🏻
+- 💬 Ask me about Artificial Intelligence..🤖
+- 📫 How to reach me: linkedin: Yash Singh Thakur , Twitter: YashSingh Thakur😊
+- 😄 Pronouns: Any words😁
+- ⚡ Fun fact: Code during online classes
 -->
