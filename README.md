@@ -7,6 +7,6 @@
 - 🤔 I’m looking for Project partner👨🏻‍🤝‍👨🏻
 - 💬 Ask me about Artificial Intelligence...🤖
 - 📫 How to reach me: linkedin: Yash Singh Thakur , Twitter: YashSingh Thakur😊
-- 😄 Pronouns: Any words😁
+- 😄 Pronouns: Any word😉
 - ⚡ Fun fact: Code during online classes😁😆
 -->
